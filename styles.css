@@ -226,6 +226,7 @@ nav {
   .container-paragraph {
     display: flex;
     flex-direction: column; 
+    height: auto!important;
   }
  
 }
